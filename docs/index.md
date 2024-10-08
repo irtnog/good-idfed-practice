@@ -2,7 +2,7 @@
 sd_hide_title: True
 ---
 
-# Welcome
+# Overview
 
 ::::{grid}
 :reverse:
@@ -10,17 +10,15 @@ sd_hide_title: True
 :margin: 1 2 1 2
 
 :::{grid-item}
-:columns: 12 4 4 4
-
-:::
-
-:::{grid-item}
-:columns: 12 8 8 8
+:columns: 12 12 12 12
 :child-align: justify
 :class: sd-fs-5
 
 ```{rubric} Good Identity Federation Practice
 ```
+
+A ratings guide for identity providers, service providers, and
+federation operators.
 
 :::
 
@@ -28,8 +26,8 @@ sd_hide_title: True
 
 ---
 
-This document brings a good practice approach to research and
-education identity federation.  In short, it answers two questions:
+This document brings a "good practice" approach to identity federation
+in research and education.  In short, it answers two questions:
 
 - How can a federation participant tell that their identity provider
   or service provider works properly?
@@ -65,10 +63,10 @@ references.md
 ```{toctree}
 :hidden:
 :caption: Guidelines
-opsec.md
 metadata.md
 assurances.md
 claims.md
+opsec.md
 ```
 
 ```{toctree}
