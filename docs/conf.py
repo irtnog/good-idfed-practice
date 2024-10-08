@@ -1,8 +1,8 @@
 from good_idfed_practice import __version__
 
 project = "Good Identity Federation Practice"
-author = "TODO"
-copyright = "2024, {author}"
+author = "Matthew X. Economou, Albert Wu, Sebastian Benatar, Björn Mattsson"
+copyright = f"2024, {author}"
 release = __version__
 version = release
 
