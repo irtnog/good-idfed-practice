@@ -63,7 +63,7 @@ references.md
 ```{toctree}
 :hidden:
 :caption: Guidelines
-metadata.md
+federation/index.md
 assurances.md
 claims.md
 opsec.md
