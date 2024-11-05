@@ -1,0 +1,204 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, Matthew X. Economou, Albert Wu, Sebastian Benatar,
+# Björn Mattsson
+# This file is distributed under the same license as the Good Identity
+# Federation Practice package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Good Identity Federation Practice 0.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-05 08:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../docs/guidance.md:1
+msgid "Guidance"
+msgstr ""
+
+#: ../docs/guidance.md:4
+msgid "InCommon Federation"
+msgstr ""
+
+#: ../docs/guidance.md:7
+msgid "InCommon Baseline Expectations for Trust in Federation"
+msgstr ""
+
+#: ../docs/guidance.md:8 ../docs/guidance.md:12 ../docs/guidance.md:16
+#: ../docs/guidance.md:23 ../docs/guidance.md:78 ../docs/guidance.md:82
+#: ../docs/guidance.md:86 ../docs/guidance.md:90 ../docs/guidance.md:94
+#: ../docs/guidance.md:98 ../docs/guidance.md:102 ../docs/guidance.md:106
+#: ../docs/guidance.md:113
+msgid "TODO short summary"
+msgstr ""
+
+#: ../docs/guidance.md:11
+msgid "Implementation Guidance and Best Practices for Baseline Expectations"
+msgstr ""
+
+#: ../docs/guidance.md:15
+msgid "InCommon Participation Agreement"
+msgstr ""
+
+#: ../docs/guidance.md:19
+msgid "eduGAIN"
+msgstr ""
+
+#: ../docs/guidance.md:22
+msgid "eduGAIN Policy Declaration"
+msgstr ""
+
+#: ../docs/guidance.md:26
+msgid "Research and Education Federations Working Group (REFEDS)"
+msgstr ""
+
+#: ../docs/guidance.md:29
+msgid "Security Incident Response Trust Framework for Federated Identity (Sirtfi)"
+msgstr ""
+
+#: ../docs/guidance.md:30
+msgid ""
+"Enables the coordination of incident response across federated "
+"organisations."
+msgstr ""
+
+#: ../docs/guidance.md:33
+msgid "Security Contact"
+msgstr ""
+
+#: ../docs/guidance.md:36
+msgid "REFEDS Multi-Factor Authentication (MFA) Profile"
+msgstr ""
+
+#: ../docs/guidance.md:37
+msgid ""
+"Defines a standard signal to request MFA and to respond to such a request"
+" in a federated authentication transaction.  Also outlines requirements "
+"that an authentication event must meet in order to communicate the usage "
+"of MFA.  Supports both SAML 2.0 and OIDC."
+msgstr ""
+
+#: ../docs/guidance.md:42
+msgid "Assurance Framework (RAF)"
+msgstr ""
+
+#: ../docs/guidance.md:44
+msgid "SAML V2.0 Metadata Deployment Profile for errorURL Version 1.0"
+msgstr ""
+
+#: ../docs/guidance.md:47
+msgid "Research & Scholarship Entity Category (REFEDS R&S)"
+msgstr ""
+
+#: ../docs/guidance.md:48
+msgid ""
+"Supports the release of attributes to service providers meeting the "
+"described requirements."
+msgstr ""
+
+#: ../docs/guidance.md:51
+msgid "REFEDS Hide From Discovery Entity Category"
+msgstr ""
+
+#: ../docs/guidance.md:53
+msgid "REFEDS Anonymous Access Entity Category"
+msgstr ""
+
+#: ../docs/guidance.md:55
+msgid "REFEDS Pseudonymous Access Entity Category"
+msgstr ""
+
+#: ../docs/guidance.md:57
+msgid "REFEDS Personalized Access Entity Category"
+msgstr ""
+
+#: ../docs/guidance.md:60
+msgid "REFEDS Single Factor Authentication (SFA) Profile"
+msgstr ""
+
+#: ../docs/guidance.md:61
+msgid ""
+"Specifies requirements that an authentication event must meet in order to"
+" communicate the usage of SFA.  Supports both SAML 2.0 and OIDC."
+msgstr ""
+
+#: ../docs/guidance.md:65
+msgid "Code of Conduct v2"
+msgstr ""
+
+#: ../docs/guidance.md:67
+msgid "eduPerson"
+msgstr ""
+
+#: ../docs/guidance.md:69
+msgid "Schema for Academia (SCHAC)"
+msgstr ""
+
+#: ../docs/guidance.md:71
+msgid "voPerson"
+msgstr ""
+
+#: ../docs/guidance.md:74
+msgid ""
+"Organization for the Advancement of Structured Information Standards "
+"(OASIS)"
+msgstr ""
+
+#: ../docs/guidance.md:77
+msgid ""
+"Assertions and Protocols for the OASIS Security Assertion Markup Language"
+" (SAML) V2.0"
+msgstr ""
+
+#: ../docs/guidance.md:81
+msgid ""
+"Authentication Context for the OASIS Security Assertion Markup Language "
+"(SAML) V2.0"
+msgstr ""
+
+#: ../docs/guidance.md:85
+msgid "Bindings for the OASIS Security Assertion Markup Language (SAML) V2.0"
+msgstr ""
+
+#: ../docs/guidance.md:89
+msgid ""
+"Conformance Requirements for the OASIS Security Assertion Mark Markup "
+"Language (SAML) V2.0"
+msgstr ""
+
+#: ../docs/guidance.md:93
+msgid "Profiles for the OASIS Security Assertion Markup Language (SAML) V2.0"
+msgstr ""
+
+#: ../docs/guidance.md:97
+msgid "Metadata for the OASIS Security Assertion Markup Language (SAML) V2.0"
+msgstr ""
+
+#: ../docs/guidance.md:101
+msgid ""
+"Security and Privacy Considerations for the OASIS Security Assertion "
+"Markup Language (SAML) V2.0"
+msgstr ""
+
+#: ../docs/guidance.md:105
+msgid "Security Assertion Markup Langauge V2.0 Errata 05"
+msgstr ""
+
+#: ../docs/guidance.md:109
+msgid "Internet Engineering Task Force (IETF)"
+msgstr ""
+
+#: ../docs/guidance.md:112
+msgid ""
+"RFC8409: The Entity Category Security Assertion Markup Language (SAML) "
+"Attribute Types"
+msgstr ""

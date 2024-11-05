@@ -1,6 +1,7 @@
 # Scenarios
 
-This document categorizes guidance based on the following scenarios:
+This document categorizes guidance, questions, and tests using these
+scenarios:
 
 {.glossary}
 Baseline
@@ -21,3 +22,7 @@ Attributable
   within the system, which requires assurances that personal data used
   for identification, authorization, and accounting is correct,
   complete, and well-protected.
+
+{.glossary}
+Regulated
+: TODO

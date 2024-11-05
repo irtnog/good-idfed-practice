@@ -56,22 +56,15 @@ powerful tool for change.
 ```{toctree}
 :hidden:
 scenarios.md
-glossary.md
-references.md
-```
-
-```{toctree}
-:hidden:
-:caption: Guidelines
-federation/index.md
-assurances.md
-claims.md
-opsec.md
-```
-
-```{toctree}
-:hidden:
-:caption: Assessment
+guidance.md
 questionnaires.md
 testing.md
+scoring.md
+```
+
+```{toctree}
+:hidden:
+:caption: Appendix
+glossary.md
+references.md
 ```

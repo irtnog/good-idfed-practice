@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Good Idfed Practice 0.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-09 09:06-0400\n"
+"POT-Creation-Date: 2024-11-05 08:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -25,25 +25,27 @@ msgid "Scenarios"
 msgstr ""
 
 #: ../docs/scenarios.md:3
-msgid "This document categorizes guidance based on the following scenarios:"
-msgstr ""
-
-#: ../docs/scenarios.md:6
-msgid "Baseline"
+msgid ""
+"This document categorizes guidance, questions, and tests using these "
+"scenarios:"
 msgstr ""
 
 #: ../docs/scenarios.md:7
+msgid "Baseline"
+msgstr ""
+
+#: ../docs/scenarios.md:8
 msgid ""
 "Every federation operator, participant, or service should meet these "
 "standards.  Anonymous, affiliation-only access is supported, but user "
 "identification may not always be possible."
 msgstr ""
 
-#: ../docs/scenarios.md:12
+#: ../docs/scenarios.md:13
 msgid "Pseudonymous"
 msgstr ""
 
-#: ../docs/scenarios.md:13
+#: ../docs/scenarios.md:14
 msgid ""
 "Not every service provider needs (or wants) to handle personal data, and "
 "identity providers have a duty of care for their users' privacy. Guidance"
@@ -51,14 +53,25 @@ msgid ""
 "personalization, etc."
 msgstr ""
 
-#: ../docs/scenarios.md:19
+#: ../docs/scenarios.md:20
 msgid "Attributable"
 msgstr ""
 
-#: ../docs/scenarios.md:20
+#: ../docs/scenarios.md:21
 msgid ""
 "Some services must hold their users accountable for their actions within "
 "the system, which requires assurances that personal data used for "
 "identification, authorization, and accounting is correct, complete, and "
 "well-protected."
 msgstr ""
+
+#: ../docs/scenarios.md:27
+msgid "Regulated"
+msgstr ""
+
+#: ../docs/scenarios.md:28
+msgid "TODO"
+msgstr ""
+
+#~ msgid "This document categorizes guidance based on the following scenarios:"
+#~ msgstr ""
